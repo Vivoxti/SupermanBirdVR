@@ -1,2 +1,2 @@
-# superman Bird VR
+# Superman Bird VR
 Oculus Quest vr game
